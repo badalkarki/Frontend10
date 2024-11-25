@@ -1,0 +1,11 @@
+.navigation {
+  text-decoration: none;
+  height: 30px;
+  width: 100%;
+  background-color: aliceblue;
+  color: black;
+  margin-top: 15px;
+  font-size: large;
+  /* padding-left: 30px; */
+  margin-left: 100px;
+}

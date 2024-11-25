@@ -1,0 +1,18 @@
+div {
+  border: 2px solid black;
+  margin: 12px;
+  padding: 23px;
+  background-color: blue;
+}
+#1 {
+  order: 2px solid black;
+  margin: 10px;
+  padding: 13px;
+  background-color: black;
+}
+.b {
+  order: 2px solid black;
+  margin: 12px;
+  padding: 23px;
+  background-color: rgb(186, 186, 193);
+}
